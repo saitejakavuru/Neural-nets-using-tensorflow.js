@@ -1,5 +1,7 @@
+This poject is done as a starting point for running deep learning framework like tensorflow in browser.
+
 # Neural networks using tensorflow js
-the tensorflow js is a framework which executes neural networks in the browser itself.
+The tensorflow js is a framework which executes neural networks in the browser itself.
 
 # Instruction 
 
